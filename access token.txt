@@ -1,0 +1,20 @@
+//access token
+{
+    "user_id": "@shwetalshah:matrix.org",
+    "access_token": "syt_c2h3ZXRhbHNoYWg_vOgTtndTQUgjjkVxgwMi_46a3i0",
+    "home_server": "matrix.org",
+    "device_id": "EHTDNOLTRE",
+    "well_known": {
+        "m.homeserver": {
+            "base_url": "https://matrix-client.matrix.org/"
+        }
+    }
+}
+
+//room id 
+{
+    "room_id": "!sfWFCehUnzjWIacHWj:matrix.org",
+    "servers": [
+        "matrix.org"
+    ]
+}

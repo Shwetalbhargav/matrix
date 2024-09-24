@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "matrix-js-sdk": "^34.5.0"
+  }
+}

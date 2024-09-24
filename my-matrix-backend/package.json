@@ -1,0 +1,22 @@
+{
+  "name": "my-matrix-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "http": "^0.0.1-security",
+    "matrix-js-sdk": "^34.5.0",
+    "require": "^2.4.20",
+    "socket.io": "^4.7.5"
+  }
+}
